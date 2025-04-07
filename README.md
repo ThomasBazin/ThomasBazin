@@ -1,7 +1,12 @@
 ## Hi there 👋
-In the process of switching carreer after 13 years in the cinema industry as camera assistant.
-Currently learning web coding at O'Clock school, I made a bunch of new friends : HTML, CSS, JS, React, PostgreSQL.
-I'm looking forward to practicing this new set of skills in a pro environment.
+Switched career after almost 13 years in the cinema industry as camera assistant. I am now a fullstack developper specialized in Typescript, React, and Node.
+Passionate about crafting clean, maintainable code that supports real-world business goals and product-centric development.
+🧰 Professionnal xp with : EmberJs, VueJs, NodeJs
+📖 Currently learning Java
+
+Currently looking for new professional opportunities.
+
+🐘 Nantes, France.
 
 <!--
 **ThomasBazin/ThomasBazin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
