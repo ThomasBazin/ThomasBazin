@@ -1,8 +1,9 @@
 ## Hi there 👋
 Switched career after almost 13 years in the cinema industry as camera assistant. I am now a fullstack developper specialized in Typescript, React, and Node.
 Passionate about crafting clean, maintainable code that supports real-world business goals and product-centric development.
-🧰 Professionnal xp with : EmberJs, VueJs, NodeJs
-📖 Currently learning Java
+
+- 🧰 Professionnal xp with : EmberJs, VueJs, NodeJs
+- 📖 Currently learning Java
 
 Currently looking for new professional opportunities.
 
